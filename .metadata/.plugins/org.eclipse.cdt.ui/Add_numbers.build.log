@@ -1,0 +1,7 @@
+21:46:08 **** Incremental Build of configuration Debug for project Add_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Add_numbers.o" "..\\src\\Add_numbers.cpp" 
+g++ -o Add_numbers.exe "src\\Add_numbers.o" 
+
+21:46:09 Build Finished. 0 errors, 0 warnings. (took 1s.246ms)
+
